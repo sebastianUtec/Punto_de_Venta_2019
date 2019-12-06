@@ -1,0 +1,6 @@
+Nombre del producto 	Codigo del producto	Precio del producto	Costo del Producto	Cantidad del producto
+azucar						201910258						14						14						18						
+Leche						2477						18						17						12						
+Huevos						20110585						47						47						25						
+Cocoa						2417852						41						25						58						
+Rimel						2589						47						14						14						
